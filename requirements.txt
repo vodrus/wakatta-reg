@@ -1,0 +1,4 @@
+xlrd==1.2.0
+requests==2.27.1
+loguru==0.6.0
+pyuseragents==1.0.5
